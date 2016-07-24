@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/vagrant/student-housing":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/student-housing","hostpath":"/Users/johnnycao/Development/johnny/student-housing","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/johnnycao/Development/johnny/student-housing","disabled":false}}}
